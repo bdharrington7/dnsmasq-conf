@@ -1,2 +1,2 @@
 # dnsmasq-conf
-my local dnsmasq config file
+local dnsmasq config file for my raspberry pi
